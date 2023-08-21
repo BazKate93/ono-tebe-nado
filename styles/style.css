@@ -38,10 +38,11 @@
   font-weight: 400;
   line-height: normal;
 }
-
-.header__links_active {
-  text-decoration: none;
+.header__links-list-item_no-bullit {
   list-style-type: none;
+}
+.header__link_active {
+  text-decoration: none;
 }
 
 .info {
